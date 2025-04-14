@@ -1,0 +1,6 @@
+phonenumbers
+folium==0.14.0
+opencage
+requests==2.31.0
+Pillow==10.1.0
+sv-ttk
